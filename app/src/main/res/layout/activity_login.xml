@@ -9,6 +9,8 @@
 
     <TextView
         android:text="@string/label_login"
+        android:layout_marginVertical="50dp"
+        android:layout_marginHorizontal="20dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
 </LinearLayout>
