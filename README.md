@@ -3,7 +3,7 @@
 Repositorio con los ejercicios y contenidos vistos en el curso de Formación del Profesorado 2024
 
 *Android Studio Koala Feature Drop | 2024.1.2*
-![Icono Android](/docs/imgs/android-1693894_640.jpg){ width=50% height=50% }
+![Icono Android](/docs/imgs/android-1693894_640.jpg)
 
 
 ## Contenido y Ejercicios
