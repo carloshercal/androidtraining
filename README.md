@@ -25,3 +25,4 @@ Repositorio con los ejercicios y contenidos vistos en el curso de Formación del
 
 **Ejercicios**
 - [Ejercicio 1](/docs)
+- [Ejercicio 2](/docs)
