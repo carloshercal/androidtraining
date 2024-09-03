@@ -2,6 +2,9 @@
 
 Repositorio con los ejercicios y contenidos vistos en el curso de Formación del Profesorado 2024
 
+*Android Studio Koala Feature Drop | 2024.1.2*
+
+
 ## Contenido y Ejercicios
 
 ### UT-01: Dispositivos Móviles
