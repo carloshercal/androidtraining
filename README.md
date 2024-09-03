@@ -3,6 +3,7 @@
 Repositorio con los ejercicios y contenidos vistos en el curso de Formación del Profesorado 2024
 
 *Android Studio Koala Feature Drop | 2024.1.2*
+![Icono Android](/docs/imgs/android-1693894_640.jpg)
 
 
 ## Contenido y Ejercicios
@@ -16,3 +17,11 @@ Repositorio con los ejercicios y contenidos vistos en el curso de Formación del
 - [Ejercicio 1](docs/ut1-ej1.pdf)
 - [Ejercicio 2](docs/ut1-ej2.pdf)
 - [Ejercicio 3](docs/ut1-ej3.pdf)
+
+### UT-02: Arquitectura
+
+**Contenido**
+- [Presentación de la UT-02](/docs)
+
+**Ejercicios**
+- [Ejercicio 1](/docs)
