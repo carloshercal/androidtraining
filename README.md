@@ -21,8 +21,9 @@ Repositorio con los ejercicios y contenidos vistos en el curso de Formación del
 ### UT-02: Arquitectura
 
 **Contenido**
-- [Presentación de la UT-02](/docs)
+- [Presentación de la UT-02](/docs/UT-02_%20Arquitectura%20de%20una%20App.pdf)
 
 **Ejercicios**
-- [Ejercicio 1](/docs)
-- [Ejercicio 2](/docs)
+- [Ejercicio 1](/docs/ut2-eje1.pdf)
+- [Ejercicio 2](/docs/ut2-eje2.pdf)
+- [Ejercicio 3](/docs/ut2-eje3.pdf)
