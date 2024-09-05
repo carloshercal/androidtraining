@@ -39,4 +39,14 @@ class LoginActivity : AppCompatActivity() {
             }.show()
         }
     }
+
+    override fun onResume() {
+        super.onResume()
+        //Para tratar el nulo usamos ? y para ejecutar un bloque de acciones
+        // si es NO nulo, usamos let (scope function)
+        loginViewModel.onResumed()?.let{ username ->
+            //username (it) es no nulo
+            findViewById<EditText>(R.id.input_username).setText(username)
+        }
+    }
 }
